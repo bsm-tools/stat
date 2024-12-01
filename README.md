@@ -15,7 +15,7 @@ package main
 
 import (
   "log"
-	"github.com/yanweidong/stat/node"
+  "github.com/yanweidong/stat/node"
 )
 
 func main(){
