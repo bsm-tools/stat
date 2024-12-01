@@ -1,4 +1,4 @@
-module github.com/yanweidong/stat
+module github.com/bsm-tools/stat
 
 go 1.23
 
