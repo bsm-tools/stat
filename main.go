@@ -12,7 +12,7 @@ import (
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
-	"github.com/yanweidong/stat/node"
+	"github.com/bsm-tools/stat/node"
 )
 
 func main() {
