@@ -23,3 +23,25 @@ func main(){
 }
 
 ```
+# Output
+```
+{
+    "Host": "DESKTOP-0U87KOS",
+    "IpAddress": [
+        "26.26.26.1",
+        "192.168.31.35"
+    ],
+    "Now": 1733418655259594,
+    "Runtime": {
+        "CPUUsedPercent": 19.6360153256705,
+        "DiskFree": 93692014592,
+        "DiskTotal": 361259601920,
+        "DiskUsedPercent": 74.06518357047078,
+        "MemoryFree": 5934952448,
+        "MemoryTotal": 17088331776,
+        "MemoryUsedPercent": 65,
+        "NetIOBytesRecv": 17844934520,
+        "NetIOBytesSent": 3215972763
+    }
+}
+```
